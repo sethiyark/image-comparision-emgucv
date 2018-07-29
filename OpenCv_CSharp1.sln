@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCv_CSharp1", "OpenCv_CSharp1\OpenCv_CSharp1.csproj", "{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Comparison1", "Comparison1\Comparison1.vdproj", "{9509D9A8-9E3A-412B-BAF8-0D18EDEF6DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Debug|x64.ActiveCfg = Debug|x86
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Debug|x64.Build.0 = Debug|x86
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Debug|x86.ActiveCfg = Debug|x86
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Debug|x86.Build.0 = Debug|x86
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Release|x64.Build.0 = Release|Any CPU
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Release|x86.ActiveCfg = Release|x86
+		{B75DE14D-EB1F-454D-A5AC-DE3E931F666C}.Release|x86.Build.0 = Release|x86
+		{9509D9A8-9E3A-412B-BAF8-0D18EDEF6DCB}.Debug|x64.ActiveCfg = Debug
+		{9509D9A8-9E3A-412B-BAF8-0D18EDEF6DCB}.Debug|x86.ActiveCfg = Debug
+		{9509D9A8-9E3A-412B-BAF8-0D18EDEF6DCB}.Release|x64.ActiveCfg = Release
+		{9509D9A8-9E3A-412B-BAF8-0D18EDEF6DCB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BFE13D-1075-4757-8B15-6A5D403423AD}
+	EndGlobalSection
+EndGlobal
